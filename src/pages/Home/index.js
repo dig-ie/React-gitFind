@@ -40,7 +40,7 @@ function App() {
             name="usuario"
             value={user}
             onChange={(event) => setUser(event.target.value)}
-            placeholder="@username"
+            placeholder="username"
           />
           <button className="SearchButton" onClick={handleGetData}>
             Buscar
