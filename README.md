@@ -2,6 +2,10 @@
 
 > Projeto desenvolvido intencionalmente com **padrões antigos do React (Era CRA – 2016 ~ 2021)**, explorando práticas e estruturas hoje consideradas **datadas**, mas que marcaram a evolução do ecossistema.
 
+# Link para conferir o projeto
+
+> https://dig-ie.github.io/React-gitFind/
+
 ---
 
 ## 🎯 Propósito
