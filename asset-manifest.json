@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-gitFind/static/css/main.da9ad2b3.css",
+    "main.js": "/React-gitFind/static/js/main.16a23360.js",
+    "static/media/background.svg": "/React-gitFind/static/media/background.0ea3577b91a58e6f75bb.svg",
+    "index.html": "/React-gitFind/index.html",
+    "main.da9ad2b3.css.map": "/React-gitFind/static/css/main.da9ad2b3.css.map",
+    "main.16a23360.js.map": "/React-gitFind/static/js/main.16a23360.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da9ad2b3.css",
+    "static/js/main.16a23360.js"
+  ]
+}
